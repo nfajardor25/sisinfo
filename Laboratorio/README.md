@@ -4,7 +4,7 @@ Este proyecto analiza las ventas de la empresa **Techstore** utilizando **Power 
 
 ---
 
-## 📊 KPIs Analizados
+## KPIs Analizados
 - **Ventas Totales**
 - **Cumplimiento de la Meta (%)**
 - **Crecimiento frente al mes anterior**
@@ -15,7 +15,7 @@ Este proyecto analiza las ventas de la empresa **Techstore** utilizando **Power 
 
 ---
 
-## 📈 Resultados en Power BI
+##  Resultados en Power BI
 - **Gráfica de líneas**: Evolución de ventas diarias y mensuales.
 - **Gráfica de barras**: Top 10 productos más vendidos.
 - **Gráfica circular**: Distribución de ventas por categoría.
@@ -24,7 +24,7 @@ Este proyecto analiza las ventas de la empresa **Techstore** utilizando **Power 
 
 ---
 
-## 📉 Resultados en Tableau
+##  Resultados en Tableau
 - **Dashboard con múltiples hojas**: Integración de ventas, metas y clientes.
 - **Filtros interactivos**: Posibilidad de segmentar por periodo, producto o cliente.
 - **Gráficas dinámicas**:
@@ -36,9 +36,9 @@ Este proyecto analiza las ventas de la empresa **Techstore** utilizando **Power 
 
 ---
 
-## ⚖️ Comparativa Power BI vs Tableau
+##  Comparativa Power BI vs Tableau
 
-| Aspecto                  | Power BI 🟡                               | Tableau 🔵                               |
+| Aspecto                  | Power BI                                | Tableau                              |
 |---------------------------|-------------------------------------------|------------------------------------------|
 | **Facilidad de uso**     | Más intuitivo para principiantes.          | Es más complejo, relacionar modelos se torna tedioso.   |
 | **Modelado de datos**    | Muy potente con DAX y relaciones directas. | Más visual y flexible.  |
@@ -47,7 +47,7 @@ Este proyecto analiza las ventas de la empresa **Techstore** utilizando **Power 
 
 ---
 
-## 📝 Conclusiones
+##  Conclusiones
 - **Power BI** resultó ideal para crear medidas con DAX y obtener KPIs de manera precisa y rápida, es más fácil de usar para alguien que nunca ha interactuado con él antes.  
 - **Tableau** Tiene buena presentación visual y en la interactividad de los dashboards, mas sinembargo, relacionar las tablas (crear el modelo) fue más dificil que en power BI.  
 - Ambas herramientas permitieron validar resultados y garantizar la consistencia de los cálculos.  
