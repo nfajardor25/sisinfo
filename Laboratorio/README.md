@@ -20,7 +20,7 @@ Este proyecto analiza las ventas de la empresa **Techstore** utilizando **Power 
 - **Gráfica de barras**: Top 10 productos más vendidos.
 - **Gráfica circular**: Distribución de ventas por categoría.
 - **Tablas**: Performance de vendedores y clientes Premium.
-- **Medidas DAX**: Se implementaron fórmulas personalizadas (`SUMX`, `DIVIDE`, `LOOKUPVALUE`) para calcular KPIs.
+- **Medidas DAX**: Se implementaron fórmulas personalizadas (`SUMX`, `DIVIDE`) para calcular KPIs.
 
 ---
 
@@ -32,7 +32,7 @@ Este proyecto analiza las ventas de la empresa **Techstore** utilizando **Power 
   - Cumplimiento de la meta mensual.
   - Crecimiento de ventas vs mes anterior.
   - Ticket promedio.
-- **Campos calculados** en Tableau replicaron la lógica de DAX (ej. `IFNULL`, `LOOKUP`, `COUNTD`).
+- **Campos calculados** en Tableau replicaron la lógica de DAX (ej. `IFNULL`, `COUNTD`).
 
 ---
 
@@ -40,18 +40,15 @@ Este proyecto analiza las ventas de la empresa **Techstore** utilizando **Power 
 
 | Aspecto                  | Power BI 🟡                               | Tableau 🔵                               |
 |---------------------------|-------------------------------------------|------------------------------------------|
-| **Facilidad de uso**     | Más intuitivo para principiantes.          | Requiere curva de aprendizaje inicial.   |
-| **Modelado de datos**    | Muy potente con DAX y relaciones directas. | Relacional, pero más visual y flexible.  |
+| **Facilidad de uso**     | Más intuitivo para principiantes.          | Es más complejo, relacionar modelos se torna tedioso.   |
+| **Modelado de datos**    | Muy potente con DAX y relaciones directas. | Más visual y flexible.  |
 | **Velocidad**            | Rápido en conjuntos pequeños y medianos.   | Muy eficiente en dashboards interactivos. |
 | **Visualizaciones**      | Amplia variedad de gráficos estándar.      | Más personalización y estilo visual.     |
-| **Interactividad**       | Buena, pero menos fluida.                  | Dashboards más dinámicos e interactivos. |
-| **Licenciamiento**       | Tiene versión gratuita y Pro de pago.      | Tableau Public gratuito (limitado).      |
 
 ---
 
 ## 📝 Conclusiones
-- **Power BI** resultó ideal para crear medidas con DAX y obtener KPIs de manera precisa y rápida.  
-- **Tableau** brilló en la presentación visual y en la interactividad de los dashboards.  
+- **Power BI** resultó ideal para crear medidas con DAX y obtener KPIs de manera precisa y rápida, es más fácil de usar para alguien que nunca ha interactuado con él antes.  
+- **Tableau** Tiene buena presentación visual y en la interactividad de los dashboards, mas sinembargo, relacionar las tablas (crear el modelo) fue más dificil que en power BI.  
 - Ambas herramientas permitieron validar resultados y garantizar la consistencia de los cálculos.  
 
-📌 En general: **Power BI** es más amigable para el análisis de datos, mientras que **Tableau** es más potente para la visualización interactiva.  
