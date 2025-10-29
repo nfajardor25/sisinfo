@@ -1,0 +1,236 @@
+Operación de Cierre:		Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Datos Empresa	Fecha Apertura:	20.10.2025	Hora Apertura:	20:03:21
+Operación de Cierre:	DESKTOP-VNVFQAI\Alexander	Desde:	DESKTOP-VNVFQAI	Transacción: 	Login	Actividad:	Ingreso al Sistema - Fallido por Contraseña	Fecha Apertura:	20.10.2025	Hora Apertura:	20:03:23
+Operación de Cierre:		Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Datos Empresa	Fecha Apertura:	20.10.2025	Hora Apertura:	20:03:29
+Operación de Cierre:	DESKTOP-VNVFQAI\Alexander	Desde:	DESKTOP-VNVFQAI	Transacción: 	Login	Actividad:	Ingreso al Sistema	Fecha Apertura:	20.10.2025	Hora Apertura:	20:03:30
+Operación de Cierre:	Rubén Darío Fajardo B.	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Parámetros del Sistema	Fecha Apertura:	20.10.2025	Hora Apertura:	20:03:31
+Operación de Cierre:	2818	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:03:36
+Operación de Cierre:	Rubén Darío Fajardo B.	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Zonas de Localización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:03:36
+Operación de Cierre:	Rubén Darío Fajardo B.	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Actualizar Anulados	Fecha Apertura:	20.10.2025	Hora Apertura:	20:03:36
+Operación de Cierre:	Rubén Darío Fajardo B.	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar mesas de la zona	Fecha Apertura:	20.10.2025	Hora Apertura:	20:03:37
+Operación de Cierre:	Rubén Darío Fajardo B.	Desde:	DESKTOP-VNVFQAI	Transacción: 	GLMA	Actividad:	Consulta Material	Fecha Apertura:	20.10.2025	Hora Apertura:	20:03:38
+Operación de Cierre:	Rubén Darío Fajardo B.	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Procesar Mesa	Fecha Apertura:	20.10.2025	Hora Apertura:	20:03:39
+Operación de Cierre:	Rubén Darío Fajardo B.	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Grupos Macros	Fecha Apertura:	20.10.2025	Hora Apertura:	20:03:40
+Operación de Cierre:	Rubén Darío Fajardo B.	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	20.10.2025	Hora Apertura:	20:03:41
+Operación de Cierre:		Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Datos Empresa	Fecha Apertura:	20.10.2025	Hora Apertura:	20:05:17
+Operación de Cierre:	DESKTOP-VNVFQAI\Alexander	Desde:	DESKTOP-VNVFQAI	Transacción: 	Login	Actividad:	Ingreso al Sistema	Fecha Apertura:	20.10.2025	Hora Apertura:	20:05:18
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Parámetros del Sistema	Fecha Apertura:	20.10.2025	Hora Apertura:	20:05:18
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:05:19
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Zonas de Localización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:05:20
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Actualizar Anulados	Fecha Apertura:	20.10.2025	Hora Apertura:	20:05:20
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar mesas de la zona	Fecha Apertura:	20.10.2025	Hora Apertura:	20:05:25
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	GLMA	Actividad:	Consulta Material	Fecha Apertura:	20.10.2025	Hora Apertura:	20:05:26
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Procesar Mesa	Fecha Apertura:	20.10.2025	Hora Apertura:	20:05:26
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Grupos Macros	Fecha Apertura:	20.10.2025	Hora Apertura:	20:05:55
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	20.10.2025	Hora Apertura:	20:05:55
+Operación de Cierre:		Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Datos Empresa	Fecha Apertura:	20.10.2025	Hora Apertura:	20:07:59
+Operación de Cierre:	DESKTOP-VNVFQAI\Alexander	Desde:	DESKTOP-VNVFQAI	Transacción: 	Login	Actividad:	Ingreso al Sistema	Fecha Apertura:	20.10.2025	Hora Apertura:	20:08:03
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Parámetros del Sistema	Fecha Apertura:	20.10.2025	Hora Apertura:	20:08:03
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:08:14
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Zonas de Localización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:08:15
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Actualizar Anulados	Fecha Apertura:	20.10.2025	Hora Apertura:	20:08:15
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar mesas de la zona	Fecha Apertura:	20.10.2025	Hora Apertura:	20:09:07
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	GLMA	Actividad:	Consulta Material	Fecha Apertura:	20.10.2025	Hora Apertura:	20:09:12
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Procesar Mesa	Fecha Apertura:	20.10.2025	Hora Apertura:	20:09:12
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Grupos Macros	Fecha Apertura:	20.10.2025	Hora Apertura:	20:09:15
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	20.10.2025	Hora Apertura:	20:09:15
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Grupo de Productos	Fecha Apertura:	20.10.2025	Hora Apertura:	20:09:33
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Productos del Grupo	Fecha Apertura:	20.10.2025	Hora Apertura:	20:09:47
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	20.10.2025	Hora Apertura:	20:10:26
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:10:38
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	20.10.2025	Hora Apertura:	20:10:38
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	20.10.2025	Hora Apertura:	20:10:38
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Consultar Fecha Contable Permitida	Fecha Apertura:	20.10.2025	Hora Apertura:	20:10:38
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Abrir Mesa	Fecha Apertura:	20.10.2025	Hora Apertura:	20:10:38
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Grabar Cuenta	Fecha Apertura:	20.10.2025	Hora Apertura:	20:10:39
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar mesas de la zona	Fecha Apertura:	20.10.2025	Hora Apertura:	20:10:50
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	GLMA	Actividad:	Consulta Material	Fecha Apertura:	20.10.2025	Hora Apertura:	20:10:52
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Procesar Mesa	Fecha Apertura:	20.10.2025	Hora Apertura:	20:10:52
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Grupos Macros	Fecha Apertura:	20.10.2025	Hora Apertura:	20:10:52
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	POS2	Actividad:	Busca Nombre Cliente	Fecha Apertura:	20.10.2025	Hora Apertura:	20:10:52
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	20.10.2025	Hora Apertura:	20:10:52
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:11:17
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:11:31
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Doc: LM	Actividad:	Buscar Número del Consecutivo	Fecha Apertura:	20.10.2025	Hora Apertura:	20:11:33
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	GLMA	Actividad:	Consulta Material	Fecha Apertura:	20.10.2025	Hora Apertura:	20:11:42
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Lista Materiales	Fecha Apertura:	20.10.2025	Hora Apertura:	20:13:17
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	GLMA	Actividad:	Consulta Material	Fecha Apertura:	20.10.2025	Hora Apertura:	20:13:33
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:14:14
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:14:17
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:14:18
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:14:21
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:15:11
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:15:22
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:15:25
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:15:31
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:15:49
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Zonas de Localización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:15:49
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Actualizar Anulados	Fecha Apertura:	20.10.2025	Hora Apertura:	20:15:49
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:16:20
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:16:33
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:16:33
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:16:41
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:16:42
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Actualizar Anulados	Fecha Apertura:	20.10.2025	Hora Apertura:	20:16:42
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Imprimir Factura Archivo	Fecha Apertura:	20.10.2025	Hora Apertura:	20:17:21
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:17:28
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:17:37
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	REPO	Actividad:	Reportes del Sistema	Fecha Apertura:	20.10.2025	Hora Apertura:	20:17:56
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:18:02
+Operación de Cierre:		Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Datos Empresa	Fecha Apertura:	20.10.2025	Hora Apertura:	20:24:21
+Operación de Cierre:	DESKTOP-VNVFQAI\Alexander	Desde:	DESKTOP-VNVFQAI	Transacción: 	Login	Actividad:	Ingreso al Sistema	Fecha Apertura:	20.10.2025	Hora Apertura:	20:24:23
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Parámetros del Sistema	Fecha Apertura:	20.10.2025	Hora Apertura:	20:24:24
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:24:27
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Zonas de Localización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:24:27
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Actualizar Anulados	Fecha Apertura:	20.10.2025	Hora Apertura:	20:24:27
+Operación de Cierre:		Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Datos Empresa	Fecha Apertura:	20.10.2025	Hora Apertura:	20:26:04
+Operación de Cierre:	DESKTOP-VNVFQAI\Alexander	Desde:	DESKTOP-VNVFQAI	Transacción: 	Login	Actividad:	Ingreso al Sistema	Fecha Apertura:	20.10.2025	Hora Apertura:	20:26:06
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Parámetros del Sistema	Fecha Apertura:	20.10.2025	Hora Apertura:	20:26:07
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:26:08
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Zonas de Localización	Fecha Apertura:	20.10.2025	Hora Apertura:	20:26:08
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Actualizar Anulados	Fecha Apertura:	20.10.2025	Hora Apertura:	20:26:08
+Operación de Cierre:		Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Datos Empresa	Fecha Apertura:	21.10.2025	Hora Apertura:	16:43:21
+Operación de Cierre:	DESKTOP-VNVFQAI\Alexander	Desde:	DESKTOP-VNVFQAI	Transacción: 	Login	Actividad:	Ingreso al Sistema	Fecha Apertura:	21.10.2025	Hora Apertura:	16:43:23
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Parámetros del Sistema	Fecha Apertura:	21.10.2025	Hora Apertura:	16:43:23
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	21.10.2025	Hora Apertura:	16:43:58
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	21.10.2025	Hora Apertura:	16:44:08
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	21.10.2025	Hora Apertura:	16:44:45
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Zonas de Localización	Fecha Apertura:	21.10.2025	Hora Apertura:	16:44:45
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Actualizar Anulados	Fecha Apertura:	21.10.2025	Hora Apertura:	16:44:45
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar mesas de la zona	Fecha Apertura:	21.10.2025	Hora Apertura:	16:44:58
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar mesas de la zona	Fecha Apertura:	21.10.2025	Hora Apertura:	16:44:58
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	GLMA	Actividad:	Consulta Material	Fecha Apertura:	21.10.2025	Hora Apertura:	16:45:00
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Procesar Mesa	Fecha Apertura:	21.10.2025	Hora Apertura:	16:45:00
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Grupos Macros	Fecha Apertura:	21.10.2025	Hora Apertura:	16:45:01
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	POS2	Actividad:	Busca Nombre Cliente	Fecha Apertura:	21.10.2025	Hora Apertura:	16:45:01
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	21.10.2025	Hora Apertura:	16:45:01
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	21.10.2025	Hora Apertura:	16:45:15
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	21.10.2025	Hora Apertura:	16:45:15
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	21.10.2025	Hora Apertura:	16:45:15
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Consultar Fecha Contable Permitida	Fecha Apertura:	21.10.2025	Hora Apertura:	16:45:15
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Grabar Cuenta	Fecha Apertura:	21.10.2025	Hora Apertura:	16:45:15
+Operación de Cierre:		Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Datos Empresa	Fecha Apertura:	23.10.2025	Hora Apertura:	16:50:26
+Operación de Cierre:	DESKTOP-VNVFQAI\Alexander	Desde:	DESKTOP-VNVFQAI	Transacción: 	Login	Actividad:	Ingreso al Sistema	Fecha Apertura:	23.10.2025	Hora Apertura:	16:50:30
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Parámetros del Sistema	Fecha Apertura:	23.10.2025	Hora Apertura:	16:50:30
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:50:41
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Zonas de Localización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:50:42
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Actualizar Anulados	Fecha Apertura:	23.10.2025	Hora Apertura:	16:50:42
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar mesas de la zona	Fecha Apertura:	23.10.2025	Hora Apertura:	16:50:52
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	GLMA	Actividad:	Consulta Material	Fecha Apertura:	23.10.2025	Hora Apertura:	16:50:55
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Procesar Mesa	Fecha Apertura:	23.10.2025	Hora Apertura:	16:50:55
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Grupos Macros	Fecha Apertura:	23.10.2025	Hora Apertura:	16:50:56
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	POS2	Actividad:	Busca Nombre Cliente	Fecha Apertura:	23.10.2025	Hora Apertura:	16:50:56
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:50:56
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar mesas de la zona	Fecha Apertura:	23.10.2025	Hora Apertura:	16:51:02
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	GLMA	Actividad:	Consulta Material	Fecha Apertura:	23.10.2025	Hora Apertura:	16:51:04
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Procesar Mesa	Fecha Apertura:	23.10.2025	Hora Apertura:	16:51:04
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Grupos Macros	Fecha Apertura:	23.10.2025	Hora Apertura:	16:51:07
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:51:07
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Grupo de Productos	Fecha Apertura:	23.10.2025	Hora Apertura:	16:51:21
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Productos del Grupo	Fecha Apertura:	23.10.2025	Hora Apertura:	16:51:34
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:52:07
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:52:18
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:52:22
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:52:22
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:52:22
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Consultar Fecha Contable Permitida	Fecha Apertura:	23.10.2025	Hora Apertura:	16:52:22
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Abrir Mesa	Fecha Apertura:	23.10.2025	Hora Apertura:	16:52:22
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Grabar Cuenta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:52:23
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:52:26
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:52:28
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:52:43
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar mesas de la zona	Fecha Apertura:	23.10.2025	Hora Apertura:	16:53:22
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar mesas de la zona	Fecha Apertura:	23.10.2025	Hora Apertura:	16:53:22
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	GLMA	Actividad:	Consulta Material	Fecha Apertura:	23.10.2025	Hora Apertura:	16:53:23
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Procesar Mesa	Fecha Apertura:	23.10.2025	Hora Apertura:	16:53:23
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Grupos Macros	Fecha Apertura:	23.10.2025	Hora Apertura:	16:53:24
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	POS2	Actividad:	Busca Nombre Cliente	Fecha Apertura:	23.10.2025	Hora Apertura:	16:53:24
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:53:24
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:53:32
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:53:41
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:53:42
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:53:42
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:53:42
+Operación de Cierre:	DESKTOP-VNVFQAI\Alexander	Desde:	DESKTOP-VNVFQAI	Transacción: 	Login	Actividad:	Autorizar Borrar Marchas	Fecha Apertura:	23.10.2025	Hora Apertura:	16:53:51
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Conceptos Anulación	Fecha Apertura:	23.10.2025	Hora Apertura:	16:53:51
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:53:59
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:54:00
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:54:04
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:54:04
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:54:04
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Parámetros del Sistema	Fecha Apertura:	23.10.2025	Hora Apertura:	16:54:04
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:54:09
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar mesas de la zona	Fecha Apertura:	23.10.2025	Hora Apertura:	16:54:12
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar mesas de la zona	Fecha Apertura:	23.10.2025	Hora Apertura:	16:54:12
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	GLMA	Actividad:	Consulta Material	Fecha Apertura:	23.10.2025	Hora Apertura:	16:54:14
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Procesar Mesa	Fecha Apertura:	23.10.2025	Hora Apertura:	16:54:14
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Grupos Macros	Fecha Apertura:	23.10.2025	Hora Apertura:	16:54:14
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	POS2	Actividad:	Busca Nombre Cliente	Fecha Apertura:	23.10.2025	Hora Apertura:	16:54:14
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:54:15
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:55:11
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:55:11
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:55:11
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Parámetros del Sistema	Fecha Apertura:	23.10.2025	Hora Apertura:	16:55:11
+Operación de Cierre:		Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Datos Empresa	Fecha Apertura:	23.10.2025	Hora Apertura:	16:57:27
+Operación de Cierre:	DESKTOP-VNVFQAI\Alexander	Desde:	DESKTOP-VNVFQAI	Transacción: 	Login	Actividad:	Ingreso al Sistema	Fecha Apertura:	23.10.2025	Hora Apertura:	16:57:29
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Parámetros del Sistema	Fecha Apertura:	23.10.2025	Hora Apertura:	16:57:29
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:57:39
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Doc: ZZ	Actividad:	Buscar Número del Consecutivo	Fecha Apertura:	23.10.2025	Hora Apertura:	16:57:41
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Doc: ZZ	Actividad:	Buscar Número del Consecutivo	Fecha Apertura:	23.10.2025	Hora Apertura:	16:57:41
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Buscar Siguiente Material	Actividad:	Consultar ultimo CodMat	Fecha Apertura:	23.10.2025	Hora Apertura:	16:57:41
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Doc: ZZ	Actividad:	Buscar Número del Consecutivo	Fecha Apertura:	23.10.2025	Hora Apertura:	16:57:41
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:57:51
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:04
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Zonas de Localización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:04
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Actualizar Anulados	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:04
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar mesas de la zona	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:06
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar mesas de la zona	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:06
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	GLMA	Actividad:	Consulta Material	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:10
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Procesar Mesa	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:11
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Grupos Macros	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:11
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	POS2	Actividad:	Busca Nombre Cliente	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:11
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:11
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:27
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:27
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:27
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:27
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:28
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:28
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:33
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:33
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:34
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:34
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:35
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:36
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:36
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:36
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:41
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:41
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar mesas de la zona	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:45
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar mesas de la zona	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:45
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	GLMA	Actividad:	Consulta Material	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:46
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Procesar Mesa	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:46
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Grupos Macros	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:47
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	POS2	Actividad:	Busca Nombre Cliente	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:47
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:47
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:53
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:54
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:58:55
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:59:03
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:59:03
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:59:03
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Parámetros del Sistema	Fecha Apertura:	23.10.2025	Hora Apertura:	16:59:03
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Doc: FV	Actividad:	Buscar Número del Consecutivo	Fecha Apertura:	23.10.2025	Hora Apertura:	16:59:29
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Actualizar Factura de Venta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:59:29
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar mesas de la zona	Fecha Apertura:	23.10.2025	Hora Apertura:	16:59:32
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	GLMA	Actividad:	Consulta Material	Fecha Apertura:	23.10.2025	Hora Apertura:	16:59:33
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Procesar Mesa	Fecha Apertura:	23.10.2025	Hora Apertura:	16:59:33
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Grupos Macros	Fecha Apertura:	23.10.2025	Hora Apertura:	16:59:33
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	POS2	Actividad:	Busca Nombre Cliente	Fecha Apertura:	23.10.2025	Hora Apertura:	16:59:34
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Anexar Productos a la Cuenta	Fecha Apertura:	23.10.2025	Hora Apertura:	16:59:34
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	16:59:43
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:59:43
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Dividir Cuenta	Actividad:	Calcula el total de los valores de la SubCHK	Fecha Apertura:	23.10.2025	Hora Apertura:	16:59:43
+Operación de Cierre:	Nicolás Fajardo Ramírez	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Cargar Parámetros del Sistema	Fecha Apertura:	23.10.2025	Hora Apertura:	16:59:43
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Doc: FV	Actividad:	Buscar Número del Consecutivo	Fecha Apertura:	23.10.2025	Hora Apertura:	17:00:33
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	TPOS	Actividad:	Actualizar Factura de Venta	Fecha Apertura:	23.10.2025	Hora Apertura:	17:00:33
+Operación de Cierre:	1234	Desde:	DESKTOP-VNVFQAI	Transacción: 	Menu Principal	Actividad:	Valida si el Usuario Tiene Autorización	Fecha Apertura:	23.10.2025	Hora Apertura:	17:00:38

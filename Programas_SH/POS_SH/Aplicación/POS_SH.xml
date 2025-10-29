@@ -1,0 +1,2828 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+POS_SH
+</name>
+</assembly>
+<members>
+<member name="P:POS_SH.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:POS_SH.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:POS_SH.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.Adm_OpeEmpDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.Adm_PerfilesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.Adm_Perfiles_OpeEmpDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_AnulacionMotivosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_CentrosVentaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_EstatusCuentaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_EstatusFacturaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_ImpresionDispositivosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_ImpresionDispositivosGruposDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_ImpresionGruposDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_ImpresionMarchaGruposDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_ImpresionMarchaProductosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_LicenciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_MediosPagoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_ParametrosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_PieDetalleProductosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_PieFacturaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_BancosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_CenCosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_EgresoCuentaCobroDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_EgresosConceptosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_EjerciciosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_EmpleadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_EmpresaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_GrupoArticulosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_GrupoProductosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_GruposMacrosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_LMCabeceraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_LMDetalleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_MaterialesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_MaterialesParamInvDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_MesasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_NominaBasesCalculoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_NominaConceptosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_NominaParametrosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PeriodoListadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PeriodosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PlanCuentasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesGruposDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesGruposSubGruposDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesSubGruposDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesSubGruposPreparacionesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_QuincenaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_RangosDocumentosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_TablaAlmacenesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_TablaImpuestosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_TextosPeriodosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_TiposMaterialDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_TiposMovimientosMacrosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_TiposMovimientosMaterialDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_UnidadesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_ZonasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_AnulacionProductosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_BancosMovimientosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_BancosTotalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_BalanceGeneralDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_CompCabeceraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_CompCabModDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_CompDetalleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_CompDetModDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_EstructuraBalanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_PeriodoContableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_PeriodoContableFechasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_PeriodoReportesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_SaldoCuentasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_CuentasCabeceraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_CuentasCabeceraAnuladasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_CuentasDetalleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_CuentasDetalleAnuladasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_EgresosCtasxCobrarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_EgresosMovimientosDiariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_EgresosPagadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_EgresosPeriodoConsultaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_EgresosSaldoDisponibleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturasCabeceraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturasCabeceraAnuladasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturasDetalleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturasDetalleAnuladasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturasMediosPagoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturasMediosPagoAnuladasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialesMovimientosInv_CabDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialesMovimientosInv_DetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialesMovimientosPendienDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialesSaldosInvDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialesSaldosInvFecDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_NominaCalculoEmpleadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_NominaPeriodosCalculadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_PagosEfectuadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_PagosEfectuadosAnuladosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_RecibosDePagosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_RecibosDePagosAnuladosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.UsuariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.Usuarios_ConectadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.Usuarios_RetiradosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.CO_ComprobanteContabilidadDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Cons_LisMaterialesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Cons_LisMaterialesCabDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Cons_LisMaterialesDetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Cons_LisMaterialesTotalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_ConsMaterialesActivosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Cons_MaterialesConsumiblesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Cons_MaterialesPermitidosLMDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.GE_ConsultarReciboEgresoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.GE_RelacionEgresosPeriodoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.GE_ReporteCuentasxCobrarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.GN_ComprobanteNomina_QueryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Cons_TratamientoPosteriorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_ListaDocumentosMaterialesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_001DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_002DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_003DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_004DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_005DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_006DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_007DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_CuentasAbiertasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_CuentasSaldosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_ImpresionMarchaGruposDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_ImpresionMarchaProductosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.PTO_Preparacion_Grupos_SubGrupos_QueryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.PTO_Preparacion_SubGrupos_Preparaciones_QueryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_002DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_004DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_005_ADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_005_A2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_005_BDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_005_B2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_006DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_02_002DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_03_001DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_03_002DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_04_002DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_UnidadCompraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesSubGrupos1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_GruProdListaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesGrupos1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_DomiciliosClienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_ConsultaMaterialesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialSaldosAlmacenesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturaConsultaMediosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturaConsultadaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001_FACTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001_FDETDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001_FMEDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001_NDETDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_CuentasTotalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_CuentasCortesiaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_CuentasDetalladaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001_DMEDPAGODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Materiales1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialesRepSaldosInvDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_02_001DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_02_007DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_MovimientosMaterialTempDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_AnulacionMotivos1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_ListasMaterialesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_MaterialesDirectosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_ConsultaTirillaCierreDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_VentasPorProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_MaterialesControlInventariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Inventario_MaterialesABC2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Inventario_ListadosGenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Inventario_ListadosGen2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Inventario_ListadosGen3DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001_FDET_TIRDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_CalidadDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_OrigenFondosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_ConsultaTirillaCierreRDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_ConsultaTirillaCierreSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Consumo_ProductosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Consumo_Productos_FADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.Adm_OpeEmpRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.Adm_PerfilesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.Adm_Perfiles_OpeEmpRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_AnulacionMotivosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_CentrosVentaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_EstatusCuentaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_EstatusFacturaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_ImpresionDispositivosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_ImpresionDispositivosGruposRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_ImpresionGruposRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_ImpresionMarchaGruposRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_ImpresionMarchaProductosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_LicenciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_MediosPagoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_ParametrosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_PieDetalleProductosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_PieFacturaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_BancosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_CenCosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_EgresoCuentaCobroRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_EgresosConceptosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_EjerciciosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_EmpleadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_EmpresaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_GrupoArticulosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_GrupoProductosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_GruposMacrosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_LMCabeceraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_LMDetalleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_MaterialesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_MaterialesParamInvRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_MesasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_NominaBasesCalculoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_NominaConceptosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_NominaParametrosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PeriodoListadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PeriodosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PlanCuentasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesGruposRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesGruposSubGruposRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesSubGruposRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesSubGruposPreparacionesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_QuincenaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_RangosDocumentosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_TablaAlmacenesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_TablaImpuestosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_TextosPeriodosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_TiposMaterialRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_TiposMovimientosMacrosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_TiposMovimientosMaterialRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_UnidadesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_ZonasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_AnulacionProductosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_BancosMovimientosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_BancosTotalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_BalanceGeneralRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_CompCabeceraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_CompCabModRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_CompDetalleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_CompDetModRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_EstructuraBalanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_PeriodoContableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_PeriodoContableFechasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_PeriodoReportesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_SaldoCuentasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_CuentasCabeceraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_CuentasCabeceraAnuladasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_CuentasDetalleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_CuentasDetalleAnuladasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_EgresosCtasxCobrarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_EgresosMovimientosDiariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_EgresosPagadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_EgresosPeriodoConsultaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_EgresosSaldoDisponibleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturasCabeceraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturasCabeceraAnuladasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturasDetalleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturasDetalleAnuladasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturasMediosPagoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturasMediosPagoAnuladasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialesMovimientosInv_CabRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialesMovimientosInv_DetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialesMovimientosPendienRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialesSaldosInvRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialesSaldosInvFecRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_NominaCalculoEmpleadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_NominaPeriodosCalculadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_PagosEfectuadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_PagosEfectuadosAnuladosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_RecibosDePagosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_RecibosDePagosAnuladosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.UsuariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.Usuarios_ConectadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.Usuarios_RetiradosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.CO_ComprobanteContabilidadRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Cons_LisMaterialesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Cons_LisMaterialesCabRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Cons_LisMaterialesDetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Cons_LisMaterialesTotalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_ConsMaterialesActivosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Cons_MaterialesConsumiblesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Cons_MaterialesPermitidosLMRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.GE_ConsultarReciboEgresoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.GE_RelacionEgresosPeriodoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.GE_ReporteCuentasxCobrarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.GN_ComprobanteNomina_QueryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Cons_TratamientoPosteriorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_ListaDocumentosMaterialesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_001Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_002Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_003Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_004Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_005Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_006Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_007Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_CuentasAbiertasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_CuentasSaldosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_ImpresionMarchaGruposRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_ImpresionMarchaProductosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.PTO_Preparacion_Grupos_SubGrupos_QueryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.PTO_Preparacion_SubGrupos_Preparaciones_QueryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_002Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_004Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_005_ARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_005_A2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_005_BRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_005_B2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_006Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_02_002Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_03_001Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_03_002Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_04_002Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_UnidadCompraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesSubGrupos1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_GruProdListaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesGrupos1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_DomiciliosClienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_ConsultaMaterialesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialSaldosAlmacenesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturaConsultaMediosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturaConsultadaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001_FACTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001_FDETRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001_FMEDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001_NDETRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_CuentasTotalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_CuentasCortesiaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_CuentasDetalladaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001_DMEDPAGORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Materiales1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialesRepSaldosInvRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_02_001Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_02_007Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_MovimientosMaterialTempRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_AnulacionMotivos1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_ListasMaterialesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_MaterialesDirectosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_ConsultaTirillaCierreRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_VentasPorProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_MaterialesControlInventariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Inventario_MaterialesABC2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Inventario_ListadosGenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Inventario_ListadosGen2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Inventario_ListadosGen3Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001_FDET_TIRRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_CalidadRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_OrigenFondosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_ConsultaTirillaCierreRRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_ConsultaTirillaCierreSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Consumo_ProductosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Consumo_Productos_FARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.Adm_OpeEmpRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.Adm_PerfilesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.Adm_Perfiles_OpeEmpRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_AnulacionMotivosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_CentrosVentaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_EstatusCuentaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_EstatusFacturaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_ImpresionDispositivosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_ImpresionDispositivosGruposRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_ImpresionGruposRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_ImpresionMarchaGruposRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_ImpresionMarchaProductosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_LicenciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_MediosPagoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_ParametrosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_PieDetalleProductosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_PieFacturaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_BancosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_CenCosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_EgresoCuentaCobroRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_EgresosConceptosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_EjerciciosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_EmpleadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_EmpresaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_GrupoArticulosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_GrupoProductosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_GruposMacrosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_LMCabeceraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_LMDetalleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_MaterialesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_MaterialesParamInvRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_MesasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_NominaBasesCalculoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_NominaConceptosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_NominaParametrosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PeriodoListadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PeriodosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PlanCuentasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesGruposRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesGruposSubGruposRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesSubGruposRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesSubGruposPreparacionesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_QuincenaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_RangosDocumentosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_TablaAlmacenesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_TablaImpuestosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_TextosPeriodosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_TiposMaterialRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_TiposMovimientosMacrosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_TiposMovimientosMaterialRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_UnidadesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_ZonasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_AnulacionProductosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_BancosMovimientosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_BancosTotalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_BalanceGeneralRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_CompCabeceraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_CompCabModRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_CompDetalleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_CompDetModRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_EstructuraBalanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_PeriodoContableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_PeriodoContableFechasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_PeriodoReportesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_Cont_SaldoCuentasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_CuentasCabeceraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_CuentasCabeceraAnuladasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_CuentasDetalleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_CuentasDetalleAnuladasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_EgresosCtasxCobrarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_EgresosMovimientosDiariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_EgresosPagadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_EgresosPeriodoConsultaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_EgresosSaldoDisponibleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturasCabeceraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturasCabeceraAnuladasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturasDetalleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturasDetalleAnuladasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturasMediosPagoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturasMediosPagoAnuladasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialesMovimientosInv_CabRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialesMovimientosInv_DetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialesMovimientosPendienRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialesSaldosInvRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialesSaldosInvFecRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_NominaCalculoEmpleadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_NominaPeriodosCalculadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_PagosEfectuadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_PagosEfectuadosAnuladosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_RecibosDePagosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_RecibosDePagosAnuladosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.UsuariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.Usuarios_ConectadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.Usuarios_RetiradosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.CO_ComprobanteContabilidadRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Cons_LisMaterialesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Cons_LisMaterialesCabRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Cons_LisMaterialesDetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Cons_LisMaterialesTotalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_ConsMaterialesActivosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Cons_MaterialesConsumiblesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Cons_MaterialesPermitidosLMRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.GE_ConsultarReciboEgresoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.GE_RelacionEgresosPeriodoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.GE_ReporteCuentasxCobrarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.GN_ComprobanteNomina_QueryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Cons_TratamientoPosteriorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_ListaDocumentosMaterialesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_001RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_002RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_003RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_004RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_005RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_006RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Materiales_x_Inventario_007RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_CuentasAbiertasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_CuentasSaldosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_ImpresionMarchaGruposRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_ImpresionMarchaProductosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.PTO_Preparacion_Grupos_SubGrupos_QueryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.PTO_Preparacion_SubGrupos_Preparaciones_QueryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_002RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_004RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_005_ARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_005_A2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_005_BRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_005_B2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_006RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_02_002RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_03_001RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_03_002RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_04_002RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_UnidadCompraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesSubGrupos1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_GruProdListaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_PreparacionesGrupos1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_DomiciliosClienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_ConsultaMaterialesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialSaldosAlmacenesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturaConsultaMediosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_FacturaConsultadaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001_FACTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001_FDETRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001_FMEDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001_NDETRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_CuentasTotalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_CuentasCortesiaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_CuentasDetalladaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001_DMEDPAGORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_Materiales1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_MaterialesRepSaldosInvRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_02_001RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_02_007RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_MovimientosMaterialTempRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_AnulacionMotivos1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_ListasMaterialesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.POS_Cons_MaterialesDirectosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_ConsultaTirillaCierreRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_VentasPorProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DM_MaterialesControlInventariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Inventario_MaterialesABC2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Inventario_ListadosGenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Inventario_ListadosGen2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Inventario_ListadosGen3RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.REP_01_001_FDET_TIRRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_CalidadRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DC_OrigenFondosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_ConsultaTirillaCierreRRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.DT_ConsultaTirillaCierreSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Consumo_ProductosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet.MM_Consumo_Productos_FARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.Adm_OpeEmpTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.Adm_PerfilesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.Adm_Perfiles_OpeEmpTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DC_AnulacionMotivosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DC_CentrosVentaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DC_EstatusCuentaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DC_EstatusFacturaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DC_ImpresionDispositivosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DC_ImpresionDispositivosGruposTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DC_ImpresionGruposTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DC_ImpresionMarchaGruposTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DC_ImpresionMarchaProductosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DC_LicenciaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DC_MediosPagoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DC_ParametrosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DC_PieDetalleProductosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DC_PieFacturaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_BancosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_CenCosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_EgresoCuentaCobroTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_EgresosConceptosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_EjerciciosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_EmpleadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_EmpresaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_GrupoArticulosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_GrupoProductosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_GruposMacrosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_LMCabeceraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_LMDetalleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_MaterialesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_MaterialesParamInvTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_MesasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_NominaBasesCalculoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_NominaConceptosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_NominaParametrosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_PeriodoListadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_PeriodosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_PlanCuentasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_PreparacionesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_PreparacionesGruposTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_PreparacionesGruposSubGruposTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_PreparacionesSubGruposTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_PreparacionesSubGruposPreparacionesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_QuincenaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_RangosDocumentosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_TablaAlmacenesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_TablaImpuestosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_TextosPeriodosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_TiposMaterialTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_TiposMovimientosMacrosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_TiposMovimientosMaterialTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_UnidadesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_ZonasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_AnulacionProductosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_BancosMovimientosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_BancosTotalesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_Cont_BalanceGeneralTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_Cont_CompCabeceraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_Cont_CompCabModTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_Cont_CompDetalleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_Cont_CompDetModTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_Cont_EstructuraBalanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_Cont_PeriodoContableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_Cont_PeriodoContableFechasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_Cont_PeriodoReportesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_Cont_SaldoCuentasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_CuentasCabeceraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_CuentasCabeceraAnuladasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_CuentasDetalleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_CuentasDetalleAnuladasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_EgresosCtasxCobrarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_EgresosMovimientosDiariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_EgresosPagadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_EgresosPeriodoConsultaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_EgresosSaldoDisponibleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_FacturasCabeceraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_FacturasCabeceraAnuladasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_FacturasDetalleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_FacturasDetalleAnuladasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_FacturasMediosPagoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_FacturasMediosPagoAnuladasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_MaterialesMovimientosInv_CabTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_MaterialesMovimientosInv_DetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_MaterialesMovimientosPendienTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_MaterialesSaldosInvTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_MaterialesSaldosInvFecTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_NominaCalculoEmpleadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_NominaPeriodosCalculadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_PagosEfectuadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_PagosEfectuadosAnuladosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_RecibosDePagosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_RecibosDePagosAnuladosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.UsuariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.Usuarios_ConectadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.Usuarios_RetiradosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.CO_ComprobanteContabilidadTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_Cons_LisMaterialesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_Cons_LisMaterialesCabTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_Cons_LisMaterialesDetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_Cons_LisMaterialesTotalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_ConsMaterialesActivosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_Cons_MaterialesConsumiblesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_Cons_MaterialesPermitidosLMTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.GE_ConsultarReciboEgresoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.GE_RelacionEgresosPeriodoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.GE_ReporteCuentasxCobrarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.GN_ComprobanteNomina_QueryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.MM_Cons_TratamientoPosteriorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.MM_ListaDocumentosMaterialesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.MM_Materiales_x_Inventario_001TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.MM_Materiales_x_Inventario_002TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.MM_Materiales_x_Inventario_003TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.MM_Materiales_x_Inventario_004TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.MM_Materiales_x_Inventario_005TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.MM_Materiales_x_Inventario_006TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.MM_Materiales_x_Inventario_007TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.POS_Cons_CuentasAbiertasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.POS_Cons_CuentasSaldosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.POS_ImpresionMarchaGruposTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.POS_ImpresionMarchaProductosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.PTO_Preparacion_Grupos_SubGrupos_QueryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.PTO_Preparacion_SubGrupos_Preparaciones_QueryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_01_001TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_01_002TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_01_004TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_01_005_ATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_01_005_A2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_01_005_BTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_01_005_B2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_01_006TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_02_002TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_03_001TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_03_002TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_04_002TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_UnidadCompraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_PreparacionesSubGrupos1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_GruProdListaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_PreparacionesGrupos1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_DomiciliosClienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_ConsultaMaterialesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_MaterialSaldosAlmacenesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_FacturaConsultaMediosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_FacturaConsultadaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_01_001_FACTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_01_001_FDETTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_01_001_FMEDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_01_001_NDETTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.POS_Cons_CuentasTotalesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.POS_Cons_CuentasCortesiaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.POS_Cons_CuentasDetalladaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_01_001_DMEDPAGOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_Materiales1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_MaterialesRepSaldosInvTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_02_001TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_02_007TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.MM_MovimientosMaterialTempTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DC_AnulacionMotivos1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.POS_Cons_ListasMaterialesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.POS_Cons_MaterialesDirectosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_ConsultaTirillaCierreTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_VentasPorProductoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DM_MaterialesControlInventariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.MM_Inventario_MaterialesABC2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.MM_Inventario_ListadosGenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.MM_Inventario_ListadosGen2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.MM_Inventario_ListadosGen3TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.REP_01_001_FDET_TIRTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DC_CalidadTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DC_OrigenFondosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_ConsultaTirillaCierreRTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.DT_ConsultaTirillaCierreSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.MM_Consumo_ProductosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.MM_Consumo_Productos_FATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:POS_SH.POS_SHDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(POS_SH.POS_SHDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:POS_SH.POS_SHDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(POS_SH.POS_SHDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:POS_SH.POS_SHDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(POS_SH.POS_SHDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:POS_SH.POS_SHDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:POS_SH.POS_SHDataSetTableAdapters.TableAdapterManager.UpdateAll(POS_SH.POS_SHDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:POS_SH.POS_SHDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
